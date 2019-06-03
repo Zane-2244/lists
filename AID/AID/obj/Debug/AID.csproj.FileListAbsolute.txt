@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\AID\AID\bin\Debug\AID.exe.config
+C:\Users\Zane\source\repos\AID\AID\bin\Debug\AID.exe
+C:\Users\Zane\source\repos\AID\AID\bin\Debug\AID.pdb
+C:\Users\Zane\source\repos\AID\AID\obj\Debug\AID.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\AID\AID\obj\Debug\AID.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\AID\AID\obj\Debug\AID.exe
+C:\Users\Zane\source\repos\AID\AID\obj\Debug\AID.pdb

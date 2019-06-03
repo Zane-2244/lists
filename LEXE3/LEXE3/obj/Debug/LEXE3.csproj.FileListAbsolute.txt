@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\bin\Debug\LEXE3.exe.config
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\bin\Debug\LEXE3.exe
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\bin\Debug\LEXE3.pdb
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\obj\Debug\LEXE3.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\obj\Debug\LEXE3.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\obj\Debug\LEXE3.exe
+C:\Users\Zane\source\repos\I.T\LEXE3\LEXE3\obj\Debug\LEXE3.pdb
